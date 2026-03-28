@@ -21,4 +21,3 @@ pip install -r requirements.txt
 ## Author
 
 Eric Alcalai França — SAP Analytics Consultant
-```
