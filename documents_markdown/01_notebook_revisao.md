@@ -12,6 +12,8 @@
 business-analytics-python/
 ├── README.md
 ├── requirements.txt
+├── documents_markdown
+│   └── 01_notebook_revisao.md
 ├── data/
 │   └── superstore.csv
 └── notebooks/
